@@ -10,7 +10,7 @@ hero:
       text: 查看全部菜谱
       link: /reprint-notice
     - theme: alt
-      text: 参与编辑
+      text: 参与贡献
       link: /
 
 features:
