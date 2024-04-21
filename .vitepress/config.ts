@@ -16,8 +16,7 @@ export default defineConfig({
     ],
     footer: { message: "基于 MIT 许可发布" },
     editLink: {
-      pattern:
-        "https://github.com/lianginx/da-zhong-cai-pu/edit/main/docs/:path",
+      pattern: "https://github.com/lianginx/da-zhong-cai-pu/edit/main/:path",
       text: "在 GitHub 上编辑此页面",
     },
     lastUpdated: {
