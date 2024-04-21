@@ -1,0 +1,18 @@
+/* 注脚样式 */
+.footnotes-sep {
+  margin: 2rem 0 1.4rem !important;
+}
+
+.footnotes {
+  font-size: .85rem;
+  color: var(--vp-c-text-2);
+}
+
+.footnotes-list li + li,
+.footnotes p {
+  margin: 0;
+}
+
+.footnote-backref {
+  text-decoration: none !important;
+}
