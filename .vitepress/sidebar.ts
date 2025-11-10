@@ -17,6 +17,7 @@ export default <DefaultTheme.Sidebar>[
           { text: "炒韭菜", link: "/shanghai/chao-jiu-cai" },
           { text: "炒青椒丝", link: "/shanghai/chao-qing-jiao-si" },
           { text: "酱爆茄子", link: "/shanghai/jiang-bao-qie-zi" },
+          { text: "油闷茄子", link: "/shanghai/you-men-qie-zi" },
         ],
       },
       {
