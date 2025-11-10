@@ -14,6 +14,7 @@ export default <DefaultTheme.Sidebar>[
           { text: "开洋烧菜心", link: "/shanghai/kai-yang-shao-cai-xin" },
           { text: "虾油菠菜", link: "/shanghai/xia-you-bo-cai" },
           { text: "生煸菠菜", link: "/shanghai/sheng-bian-bo-cai" },
+          { text: "炒韭菜", link: "/shanghai/chao-jiu-cai" },
         ],
       },
       {
